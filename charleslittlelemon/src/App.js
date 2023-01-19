@@ -3,10 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div >
+    <>
       <p>Homepage</p>
       <p>Time</p>
-    </div>
+      <p>Booking Table</p>
+    </>
   );
 }
 
