@@ -5,6 +5,7 @@ function App() {
   return (
     <div >
       <p>Homepage</p>
+      <p>Time</p>
     </div>
   );
 }
